@@ -21,13 +21,13 @@ This project is an **Android Intermediate Task** for **OneSpan**. It demonstrate
 ## Testing
 - **Unit Tests: Validates UseCase and ViewModel.
 - **Repository Tests: Mocks API for reliable testing.
-- **Security Tests: Ensures encryption and protection mechanisms.
+
 
 ## Future Enhancements
 - Offline support using Room Database.
 - Enhanced error handling and specific messages.
 - UI/UX improvements and pagination support.
-- Stronger security layers for production readiness.
+
 
 ## How to Run the Project
 1. Clone the repository:
