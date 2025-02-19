@@ -32,7 +32,7 @@ This project is an **Android Intermediate Task** for **OneSpan**. It demonstrate
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SecureCatBreedsApp.git
+   git clone https://github.com/Param27/Android_Intermediate_Interview
 2. Open the project in Android Studio.
 3. Sync Gradle and install dependencies.
 4. Run the project on an emulator or physical device.
